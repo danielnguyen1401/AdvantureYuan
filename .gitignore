@@ -1,0 +1,10 @@
+.vs/
+Library/
+Temp/
+ProjectSettings/
+UnityPackageManager/
+Export/
+Assets/ProCore/
+.idea/
+obj/
+Assets/Plugins/
