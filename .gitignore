@@ -8,3 +8,7 @@ Assets/ProCore/
 .idea/
 obj/
 Assets/Plugins/
+Assets/Scenes/Market/
+Assets/Scenes/Persistent/
+Assets/Scenes/SecurityRoom/
+.git/
